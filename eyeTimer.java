@@ -1,6 +1,5 @@
 import java.util.Timer;
 
-
 public class eyeTimer {
 
     static final long length = 1200000; 
